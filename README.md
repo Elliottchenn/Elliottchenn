@@ -1,15 +1,15 @@
-# Hi, I'm [Elliottchenn] 👋
+# Hi, I'm Elliottchenn 👋
 
-I'm a student at **Hainan University**, currently studying **Computer Science and Technology** (Class of 2023). Passionate about coding, problem-solving, and learning new technologies. Here, you'll find a collection of my projects, experiments, and resources.
+I'm a student at **Hainan University**, currently studying **Computer Science and Technology** (Class of 2023). Passionate about coding, problem-solving, and learning new technologies. Here, you'll find a collection of my projects, experiments, and resources. I'm a newbie. 😊🚀
 
 ---
 
 ## 📚 About Me
 
-- 🌱 Currently learning **[your current learning focus/technology]**
-- 🎓 **Hainan University**, Class of 2023, **Computer Science and Technology**
-- 💬 Ask me about **[topics you're interested in]**
-- 🌍 I’m based in **Hainan, China**
+- 🌱 Currently learning **PyTorch** and **Machine Learning**.
+- 🎓 **Hainan University**, Class of 2023, **Computer Science and Technology**.
+- 💬 Ask me about **ML**, **AI**, and **Open Source** contributions.
+- 🌍 I’m based in **Hainan, China**.
 
 ---
 
@@ -17,25 +17,25 @@ I'm a student at **Hainan University**, currently studying **Computer Science an
 
 Here are some of the projects I've been working on:
 
-- **Project 1**: Brief description of the project and its goals.
-- **Project 2**: Description of the project, tools used, and what it solves.
-- **Project 3**: Any other interesting work you're proud of.
+- **Personal Project**: Currently building a machine learning model using **PyTorch** for image classification.
+- **Open Source Contribution**: Contributing to various open-source projects related to **AI** and **Data Science**.
 
 ---
 
 ## 🔧 Skills
 
 - **Programming Languages**: Python, Java, C++, etc.
-- **Tools & Technologies**: Git, MySQL
-- **Other Interests**: AI, Open Source Contribution
+- **Tools & Technologies**: Git, MySQL, PyTorch, TensorFlow, Docker.
+- **Other Interests**: AI, Machine Learning, Open Source Contribution.
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [elliottchenn@gmail.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💻 GitHub: [Your GitHub](https://github.com/your-username)
+- 📧 Email: [elliottchenn@gmail.com](mailto:elliottchenn@gmail.com)
+- 🐧 QQ: 2870579566
+- 💻 GitHub: [Elliottchenn GitHub](https://github.com/elliottchenn)
+- 🌐 LinkedIn: [Elliottchenn LinkedIn](https://www.linkedin.com/in/elliottchenn) (Optional)
 
 ---
 
