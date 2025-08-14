@@ -1,5 +1,5 @@
 <h1 align="center"> 🤩 hello, i'm Elliotchenn 🤩 </h1>
-<h3 align="center">🚀an eager learner 🚀</h3>
+<h3 align="center">🚀a learner 🚀</h3>
 
 I'm a student at **Hainan University**, currently studying **Computer Science and Technology** (Class of 2023). Passionate about coding, problem-solving, and learning new technologies. Here, you'll find a collection of my projects, experiments, and resources. I'm a newbie. 😊🚀
 
